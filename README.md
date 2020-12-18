@@ -6,3 +6,6 @@ my first repository in GitHub
 '''python
 print('hello world')
 '''
+```python
+print('hello world')
+```
